@@ -1,1 +1,3 @@
-console.log("hm");
+var HM = "hellow, world";
+
+document.write(HM);
